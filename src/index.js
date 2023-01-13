@@ -6,7 +6,6 @@ import "simplelightbox/dist/simple-lightbox.min.css";
 const formEl = document.querySelector('.search-form');
 const galleryEl = document.querySelector('.gallery');
 const buttonEl = document.querySelector('.load-more');
-const axios = require('axios');
 
 const BASE_URL = 'https://pixabay.com/api/';
 const API_KEY = '32769599-757710318235c73590b6be352';
